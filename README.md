@@ -1,1 +1,1 @@
-<h1 align="center">Personal E2s</h1>
+<h1 align="center">Public Starfall Scripts</h1>
