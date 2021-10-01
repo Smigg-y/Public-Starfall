@@ -20,8 +20,6 @@ if CLIENT then
         local x = (math.cos(theta) * math.sin(phi)) * 500
         local y = (math.sin(theta) * math.sin(phi)) * 500
         local z = math.cos(phi) * 500
-                
-        var = tostring(i)
             
         holograms.create(chip():getPos() + Vector(x, y, z), Angle(), "models/holograms/hq_icosphere.mdl")
     end
